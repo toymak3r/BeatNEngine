@@ -1,0 +1,3 @@
+[submodule "engine/cmake/sdl2"]
+	path = engine/cmake/sdl2
+	url = git@github.com:toymak3r/sdl2-cmake-modules.git
