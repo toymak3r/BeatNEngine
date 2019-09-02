@@ -1,0 +1,11 @@
+{
+    "title": "Xiba of Devs",
+    "version": "0.1a",
+    "bootsplah": [{
+        "src": "data/bootsplash/1.png",
+        "time": 3
+    }, {
+        "src": "data/bootsplash/2.png",
+        "time": 3
+    }]
+}

@@ -42,3 +42,6 @@ install_manifest.txt
 bin/
 build/
 XibaOfDevs
+
+# IDE
+.vscode/
